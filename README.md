@@ -4,3 +4,6 @@ Find coffee shops near you, no matter where you are!
 - HTML
 - Java Script
 - Google Maps API
+
+<br>
+It shows the coffee shops within a specific radius.
