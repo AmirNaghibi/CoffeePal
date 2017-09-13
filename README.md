@@ -11,4 +11,4 @@ If you move the cursor around, you the locations will be updated.
 <br>
 The name of the coffee shop is shown. 
 <br>
-Next step is to show the hours of operations
+Next step is to show the hours of operations and how busy the place is.
