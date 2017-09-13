@@ -7,3 +7,4 @@ Find coffee shops near you, no matter where you are!
 
 <br>
 It shows the coffee shops within a specific radius.
+If you move the cursor around, you the locations will be updated.
